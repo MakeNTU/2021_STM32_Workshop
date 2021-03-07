@@ -1,2 +1,2 @@
-# 2021-MakeNTU-x-ST
+# 2021 MakeNTU STM32工作坊
 2021 MakeNTU STM32 Workshop
