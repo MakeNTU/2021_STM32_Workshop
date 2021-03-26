@@ -6,7 +6,7 @@
   - 在「10_AI_HCR」目錄下還包含了三個目錄：
     - 「AI_Model」內含實作需使用的AI模型。
     - 「STM32_DWT」和「STM32_Image」內含實作需使用的輔助程式檔。
-  - 簡報檔「20200223_MakeNTU_Github.pdf」
+  - 簡報檔「20210327_MakeNTU_STM32-Workshop.pdf」
 
 - 本工作坊需安裝STM32CubeIDE：
 
